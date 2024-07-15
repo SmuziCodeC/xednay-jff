@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-image: linear-gradient(#F2F2F2FF, #BFBFBFFF);
+}
+.poduso {
+  width: 280px;
+  height: auto;
+}
